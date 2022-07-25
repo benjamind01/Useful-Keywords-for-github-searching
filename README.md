@@ -24,6 +24,12 @@ Example : location:france
 
 _____________________________________________________
 
+(followers:) Search all users who have these followers
+
+Example : followers:>10000
+
+_____________________________________________________
+
 All documentation there :
 
 https://docs.github.com/en/search-github
